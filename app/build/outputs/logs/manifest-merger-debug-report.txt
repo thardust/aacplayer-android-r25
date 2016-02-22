@@ -1,0 +1,58 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:4:4-36
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:6:4-45
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:5:4-27
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:3:4-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:9:2-64
+	android:name
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:9:19-61
+uses-sdk
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:10:2-39
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\AndroidApps\vRev\aacplayer-android-r25\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\AndroidApps\vRev\aacplayer-android-r25\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:10:12-37
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:12:2-29:16
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\AndroidApps\vRev\aacplayer-android-r25\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\AndroidApps\vRev\aacplayer-android-r25\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:13:3-35
+	android:debuggable
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:14:3-28
+activity#com.spoledge.aacplayer.AACPlayerActivity
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:17:3-28:14
+	android:label
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:19:4-36
+	android:launchMode
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:20:4-35
+	android:name
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:18:4-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:23:4-26:20
+action#android.intent.action.MAIN
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:24:5-57
+	android:name
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:24:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from C:\AndroidApps\vRev\aacplayer-android-r25\app\src\main\AndroidManifest.xml:25:15-62

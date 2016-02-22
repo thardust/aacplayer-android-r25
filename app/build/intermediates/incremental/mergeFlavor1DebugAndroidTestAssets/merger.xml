@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\AndroidApps\aacplayer-android-r25\app\src\androidTest\assets"/></dataSet><dataSet config="flavor1"><source path="C:\AndroidApps\aacplayer-android-r25\app\src\androidTestFlavor1\assets"/></dataSet></merger>
